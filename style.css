@@ -1,0 +1,22 @@
+.navlogo{
+    height: 40px;
+    width: 40px;
+}
+footer{
+    color: white;
+    font-weight: bolder;
+    background-color: black;
+    text-align: center;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    transition: 1s;
+}
+footer a:hover{
+    color: blue;
+}
+img{
+    height: 40px;
+    width: 40px;
+}
